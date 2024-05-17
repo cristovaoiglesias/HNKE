@@ -1,0 +1,860 @@
+RMSPE UKF forSPN_testingset3
+Xv: 5.508102314236069
+glc: 14.986494651060909
+gln: 1.1408543639237213e11
+lac: 36.436688377605044
+amm: 18.211831114982356
+mAb: 16.319102092133058
+RMSPE ENN+UKF
+Xv: 15.234956823892256
+glc: 6.486063729251848
+gln: 4.4946830891219246e10
+lac: 63.476016488742616
+amm: 8.844605500567523
+mAb: 19.1718725700914
+
+
+Prediction Interval test for UKF: SPN_testingset3
+Xv case - Percentage of true values falling inside of prediction interval: 18.932038834951456
+glc case - Percentage of true values falling inside of prediction interval: 100.0
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 12.742718446601941
+
+
+Prediction Interval test for ENN+MM+UKF: SPN_testingset3
+Xv case - Percentage of true values falling inside of prediction interval: 1.0922330097087378
+glc case - Percentage of true values falling inside of prediction interval: 72.57281553398059
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 100.0
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 813.71977507338 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 894.2325446874584 < 904.3945815724871)?true
+
+====== NEES test for UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.4174757281553398
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.39563106796116504
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9223300970873787
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.45145631067961167
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8895631067961165
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.46480582524271846
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.6055825242718447
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.5594660194174758
+
+====== NEES test for HM+UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.02912621359223301
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.024271844660194174
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9114077669902912
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8519417475728155
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8859223300970874
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.970873786407767
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9538834951456311
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+
+====== NEES test total for UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.3276699029126214
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.32402912621359226
+
+====== NEES test total for HM+UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.0412621359223301
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.043689320388349516
+RMSPE UKF forSPN_testingset4
+Xv: 5.717462402979508
+glc: 10.747911643024901
+gln: 9.473417874579137e10
+lac: 37.0487491384606
+amm: 14.413038427196165
+mAb: 16.605654045852944
+RMSPE ENN+UKF
+Xv: 11.601682204248082
+glc: 6.545044095528356
+gln: 4.896293052452393e10
+lac: 51.99525707810746
+amm: 8.824488982526264
+mAb: 19.064687800142842
+
+
+Prediction Interval test for UKF: SPN_testingset4
+Xv case - Percentage of true values falling inside of prediction interval: 17.354368932038835
+glc case - Percentage of true values falling inside of prediction interval: 100.0
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 14.320388349514563
+
+
+Prediction Interval test for ENN+MM+UKF: SPN_testingset4
+Xv case - Percentage of true values falling inside of prediction interval: 1.0922330097087378
+glc case - Percentage of true values falling inside of prediction interval: 73.66504854368931
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 100.0
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset4
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 750.6164468504642 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset4
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 746.6595697086998 < 904.3945815724871)?true
+
+====== NEES test for UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.4016990291262136
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.3786407766990291
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9223300970873787
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.22936893203883496
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8543689320388349
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.3058252427184466
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.6189320388349514
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.5813106796116505
+
+====== NEES test for HM+UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.02669902912621359
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.024271844660194174
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9004854368932039
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8179611650485437
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8968446601941747
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.970873786407767
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9563106796116505
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+
+====== NEES test total for UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.33980582524271846
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.3446601941747573
+
+====== NEES test total for HM+UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.04004854368932039
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.0412621359223301
+RMSPE UKF forSP1_testingset3
+Xv: 9.645420504185772
+glc: 5.188477814875883
+gln: 7.610851048003282e9
+lac: 17.782603106619945
+amm: 8.525350539095298
+mAb: 17.934637842166538
+RMSPE ENN+UKF
+Xv: 11.129850100612202
+glc: 1.2270381222336344
+gln: 4.450357920480702e9
+lac: 17.699298903172373
+amm: 7.995748349913484
+mAb: 15.645796091183398
+
+
+Prediction Interval test for UKF: SP1_testingset3
+Xv case - Percentage of true values falling inside of prediction interval: 14.927184466019416
+glc case - Percentage of true values falling inside of prediction interval: 100.0
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 21.844660194174757
+
+
+Prediction Interval test for ENN+MM+UKF: SP1_testingset3
+Xv case - Percentage of true values falling inside of prediction interval: 3.033980582524272
+glc case - Percentage of true values falling inside of prediction interval: 92.47572815533981
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 96.2378640776699
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 100.0
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SP1_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 882.4673866330222 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SP1_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 841.1890106758017 < 904.3945815724871)?true
+
+====== NEES test for UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.24635922330097088
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.23786407766990292
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9987864077669902
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.30339805825242716
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8191747572815534
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.0
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.38470873786407767
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.3859223300970874
+
+====== NEES test for HM+UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.05218446601941747
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.04733009708737864
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9745145631067961
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8652912621359223
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9271844660194175
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9296116504854369
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8907766990291263
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+
+====== NEES test total for UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.11771844660194175
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.11286407766990292
+
+====== NEES test total for HM+UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.04004854368932039
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.0703883495145631
+RMSPE UKF forSP1_testingset4
+Xv: 9.858114410478738
+glc: 4.683826148902908
+gln: 7.282305911400211e9
+lac: 19.03269587875295
+amm: 8.613924586645656
+mAb: 17.681818737012815
+RMSPE ENN+UKF
+Xv: 11.35950953970903
+glc: 1.6404590269025183
+gln: 4.954280800798044e9
+lac: 21.20096522884366
+amm: 7.875346520815485
+mAb: 15.787215847739583
+
+
+Prediction Interval test for UKF: SP1_testingset4
+Xv case - Percentage of true values falling inside of prediction interval: 12.742718446601941
+glc case - Percentage of true values falling inside of prediction interval: 100.0
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 22.208737864077673
+
+
+Prediction Interval test for ENN+MM+UKF: SP1_testingset4
+Xv case - Percentage of true values falling inside of prediction interval: 2.4271844660194173
+glc case - Percentage of true values falling inside of prediction interval: 69.78155339805825
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 100.0
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SP1_testingset4
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 869.3048840490148 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SP1_testingset4
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 815.6752750307706 < 904.3945815724871)?true
+
+====== NEES test for UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.2342233009708738
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.22815533980582525
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 1.0
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.28640776699029125
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8240291262135923
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.0
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.42839805825242716
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.3762135922330097
+
+====== NEES test for HM+UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.05825242718446602
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.055825242718446605
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9004854368932039
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8895631067961165
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9441747572815534
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9356796116504854
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9077669902912622
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+
+====== NEES test total for UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.12378640776699029
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.12135922330097088
+
+====== NEES test total for HM+UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.05218446601941747
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.07766990291262135
+RMSPE UKF forSP2_testingset3
+Xv: 7.335246295705149
+glc: 226.54252466863696
+gln: 26826.080546282406
+lac: 68.56226789633233
+amm: 10.101896889361681
+mAb: 18.15921647615365
+RMSPE ENN+UKF
+Xv: 9.177924639122386
+glc: 218.45398780245736
+gln: 18014.68001700689
+lac: 64.44502395732667
+amm: 9.514520224535469
+mAb: 16.041700113345957
+
+
+Prediction Interval test for UKF: SP2_testingset3
+Xv case - Percentage of true values falling inside of prediction interval: 18.446601941747574
+glc case - Percentage of true values falling inside of prediction interval: 100.0
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 37.25728155339806
+
+
+Prediction Interval test for ENN+MM+UKF: SP2_testingset3
+Xv case - Percentage of true values falling inside of prediction interval: 4.368932038834951
+glc case - Percentage of true values falling inside of prediction interval: 50.36407766990292
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 88.10679611650485
+amm case - Percentage of true values falling inside of prediction interval: 69.41747572815534
+mAb case - Percentage of true values falling inside of prediction interval: 100.0
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SP2_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 880.2100649694701 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SP2_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 814.1604404842055 < 904.3945815724871)?true
+
+====== NEES test for UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.5400485436893204
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.49150485436893204
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8980582524271845
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.25606796116504854
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.6662621359223301
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.30097087378640774
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.5631067961165048
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.5388349514563107
+
+====== NEES test for HM+UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.12014563106796117
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.10679611650485436
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.75
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.7463592233009708
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.991504854368932
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8956310679611651
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9842233009708737
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.9660194174757282
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9053398058252428
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+
+====== NEES test total for UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.49393203883495146
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.5922330097087378
+
+====== NEES test total for HM+UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.16019417475728157
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.17233009708737865
+RMSPE UKF forSP2_testingset4
+Xv: 7.532652121804107
+glc: 224.80041676806044
+gln: 26364.692795319508
+lac: 62.46930104419557
+amm: 9.34191533006842
+mAb: 17.9082798638813
+RMSPE ENN+UKF
+Xv: 9.90904323637129
+glc: 219.62409781234004
+gln: 17933.455085918482
+lac: 54.984802817658505
+amm: 8.6911824750697
+mAb: 15.605519928853445
+
+
+Prediction Interval test for UKF: SP2_testingset4
+Xv case - Percentage of true values falling inside of prediction interval: 27.063106796116504
+glc case - Percentage of true values falling inside of prediction interval: 100.0
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 37.62135922330097
+
+
+Prediction Interval test for ENN+MM+UKF: SP2_testingset4
+Xv case - Percentage of true values falling inside of prediction interval: 4.12621359223301
+glc case - Percentage of true values falling inside of prediction interval: 49.75728155339806
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 87.98543689320388
+amm case - Percentage of true values falling inside of prediction interval: 69.1747572815534
+mAb case - Percentage of true values falling inside of prediction interval: 100.0
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SP2_testingset4
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 880.4285201686249 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SP2_testingset4
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 810.2084055141337 < 904.3945815724871)?true
+
+====== NEES test for UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.5279126213592233
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.4817961165048544
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.808252427184466
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.2949029126213592
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.6432038834951457
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.2609223300970874
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.5703883495145631
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.5412621359223301
+
+====== NEES test for HM+UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.10800970873786407
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.09587378640776699
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.7475728155339806
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.7439320388349514
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.991504854368932
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9004854368932039
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9817961165048543
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.9660194174757282
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.912621359223301
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+
+====== NEES test total for UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.4174757281553398
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.5788834951456311
+
+====== NEES test total for HM+UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.14441747572815533
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.15048543689320387
+RMSPE UKF forSP3_testingset3
+Xv: 4.6311020928778275
+glc: 32.4017481037654
+gln: 1.3967005613897035e6
+lac: 25.691699912626515
+amm: 8.33296835848259
+mAb: 9.706737603967918
+RMSPE ENN+UKF
+Xv: 6.606752593197091
+glc: 27.105309452593062
+gln: 1.6574140189138644e6
+lac: 17.468906101607672
+amm: 6.868135657951729
+mAb: 8.217119305048664
+
+
+Prediction Interval test for UKF: SP3_testingset3
+Xv case - Percentage of true values falling inside of prediction interval: 22.330097087378643
+glc case - Percentage of true values falling inside of prediction interval: 81.91747572815534
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 21.601941747572813
+
+
+Prediction Interval test for ENN+MM+UKF: SP3_testingset3
+Xv case - Percentage of true values falling inside of prediction interval: 7.281553398058252
+glc case - Percentage of true values falling inside of prediction interval: 14.805825242718445
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 94.1747572815534
+amm case - Percentage of true values falling inside of prediction interval: 83.49514563106796
+mAb case - Percentage of true values falling inside of prediction interval: 100.0
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SP3_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 803.7627405856385 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SP3_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 749.8213087431433 < 904.3945815724871)?true
+
+====== NEES test for UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.42354368932038833
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.40048543689320387
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9635922330097088
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.2827669902912621
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.6383495145631068
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.12378640776699029
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.6650485436893204
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.6177184466019418
+
+====== NEES test for HM+UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.10436893203883495
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.09951456310679611
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.42597087378640774
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.4211165048543689
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9635922330097088
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8956310679611651
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8822815533980582
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9563106796116505
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+
+====== NEES test total for UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.46237864077669905
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.4526699029126214
+
+====== NEES test total for HM+UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.04854368932038835
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.03762135922330097
+RMSPE UKF forSP3_testingset4
+Xv: 4.151268945043197
+glc: 33.63496789609697
+gln: 1.3027753251628447e6
+lac: 26.496744728032095
+amm: 8.860673831159852
+mAb: 10.10423474680517
+RMSPE ENN+UKF
+Xv: 6.794964259968992
+glc: 26.921040403677775
+gln: 1.6786117901444829e6
+lac: 16.852150186558536
+amm: 6.847416159423641
+mAb: 8.17355967195897
+
+
+Prediction Interval test for UKF: SP3_testingset4
+Xv case - Percentage of true values falling inside of prediction interval: 20.87378640776699
+glc case - Percentage of true values falling inside of prediction interval: 79.6116504854369
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 21.723300970873787
+
+
+Prediction Interval test for ENN+MM+UKF: SP3_testingset4
+Xv case - Percentage of true values falling inside of prediction interval: 7.281553398058252
+glc case - Percentage of true values falling inside of prediction interval: 14.927184466019416
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 94.1747572815534
+amm case - Percentage of true values falling inside of prediction interval: 83.49514563106796
+mAb case - Percentage of true values falling inside of prediction interval: 100.0
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SP3_testingset4
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 876.5649693483224 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SP3_testingset4
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 832.0954060927995 < 904.3945815724871)?true
+
+====== NEES test for UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.45024271844660196
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.4344660194174757
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.970873786407767
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.3325242718446602
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.6383495145631068
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.13106796116504854
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.6371359223300971
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.5946601941747572
+
+====== NEES test for HM+UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.10558252427184465
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.10072815533980582
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.4320388349514563
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.42475728155339804
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9660194174757282
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8919902912621359
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8810679611650486
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9575242718446602
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+
+====== NEES test total for UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.4381067961165049
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.42354368932038833
+
+====== NEES test total for HM+UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.04854368932038835
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.038834951456310676
+RMSPE UKF forSP4_testingset3
+Xv: 1.3940924538769512
+glc: 10.626090627057238
+gln: 1.309360838681621e7
+lac: 5.698454526763972
+amm: 6.397209595115945
+mAb: 7.200817057930767
+RMSPE ENN+UKF
+Xv: 1.3058876402884123
+glc: 10.812883502103537
+gln: 1.2528021803095069e7
+lac: 6.2450957868158214
+amm: 6.1936500168307225
+mAb: 7.088291237346475
+
+
+Prediction Interval test for UKF: SP4_testingset3
+Xv case - Percentage of true values falling inside of prediction interval: 71.2378640776699
+glc case - Percentage of true values falling inside of prediction interval: 100.0
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 13.349514563106796
+
+
+Prediction Interval test for ENN+MM+UKF: SP4_testingset3
+Xv case - Percentage of true values falling inside of prediction interval: 57.40291262135923
+glc case - Percentage of true values falling inside of prediction interval: 36.89320388349515
+gln case - Percentage of true values falling inside of prediction interval: 88.95631067961165
+lac case - Percentage of true values falling inside of prediction interval: 45.50970873786408
+amm case - Percentage of true values falling inside of prediction interval: 77.42718446601941
+mAb case - Percentage of true values falling inside of prediction interval: 70.02427184466019
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SP4_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 758.687619480031 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SP4_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 750.3413547213099 < 904.3945815724871)?true
+
+====== NEES test for UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9538834951456311
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.9781553398058253
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9186893203883495
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.39563106796116504
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9320388349514563
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.3337378640776699
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.44660194174757284
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.35194174757281554
+
+====== NEES test for HM+UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8919902912621359
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.8774271844660194
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9878640776699029
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.8155339805825242
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9344660194174758
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8434466019417476
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.7864077669902912
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8895631067961165
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.9490291262135923
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9162621359223301
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.9745145631067961
+
+====== NEES test total for UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.46359223300970875
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.5752427184466019
+
+====== NEES test total for HM+UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.7851941747572816
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.8009708737864077
+RMSPE UKF forSP4_testingset4
+Xv: 1.4609379502971558
+glc: 10.723172757345733
+gln: 1.3586321406374255e7
+lac: 5.786098722363695
+amm: 6.335396473773809
+mAb: 7.344656503184181
+RMSPE ENN+UKF
+Xv: 1.2098419888519374
+glc: 10.893501938942105
+gln: 1.3017347952332508e7
+lac: 6.030021772240412
+amm: 6.206622026053133
+mAb: 7.156180132104647
+
+
+Prediction Interval test for UKF: SP4_testingset4
+Xv case - Percentage of true values falling inside of prediction interval: 66.01941747572816
+glc case - Percentage of true values falling inside of prediction interval: 100.0
+gln case - Percentage of true values falling inside of prediction interval: 100.0
+lac case - Percentage of true values falling inside of prediction interval: 100.0
+amm case - Percentage of true values falling inside of prediction interval: 100.0
+mAb case - Percentage of true values falling inside of prediction interval: 13.228155339805825
+
+
+Prediction Interval test for ENN+MM+UKF: SP4_testingset4
+Xv case - Percentage of true values falling inside of prediction interval: 48.05825242718447
+glc case - Percentage of true values falling inside of prediction interval: 36.16504854368932
+gln case - Percentage of true values falling inside of prediction interval: 89.32038834951457
+lac case - Percentage of true values falling inside of prediction interval: 45.14563106796117
+amm case - Percentage of true values falling inside of prediction interval: 76.69902912621359
+mAb case - Percentage of true values falling inside of prediction interval: 70.02427184466019
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SP4_testingset4
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 896.901751645522 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SP4_testingset4
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 873.7558092975365 < 904.3945815724871)?true
+
+====== NEES test for UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9575242718446602
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.9684466019417476
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9199029126213593
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.39563106796116504
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9393203883495146
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.33980582524271846
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.4405339805825243
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.3616504854368932
+
+====== NEES test for HM+UKF ======
+====== Xv
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9271844660194175
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.8859223300970874
+====== glc
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9878640776699029
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.7997572815533981
+====== gln
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.9356796116504854
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 1.0
+====== lac
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8300970873786407
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.7912621359223301
+====== amm
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8895631067961165
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.9478155339805825
+====== mAb
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.933252427184466
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.9745145631067961
+
+====== NEES test total for UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.45145631067961167
+What is the percentege of NEES are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.5533980582524272
+
+====== NEES test total for HM+UKF ======
+What is the percentege of NEES that lie within the [0.00098,5.0238]? 0.8033980582524272
+What is the percentege of NESS are found inside the one-sided 95% where the 5% tail is ChiSquare(0.95)=3.8414 (upper limit) for df=1? 0.8252427184466019

@@ -1,0 +1,1287 @@
+-----RMSPE HNKE-U------ensemble size 2 - [91, 6]
+Xv: 36.089800491644574
+glc: 72.04568038065928
+gln: 3.911114637140432e11
+lac: 42.3250618564364
+amm: 53.30801848050132
+mAb: 60.35731802566596
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 12786.64454901132 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 7667.3803047856 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 3 - [69, 18, 96]
+Xv: 18.95719720589863
+glc: 10.210414621804492
+gln: 5.2329707460486786e10
+lac: 39.52597642428407
+amm: 9.187207903177756
+mAb: 30.62534919347782
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 20858.18286510676 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1249.4538066584998 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 4 - [75, 50, 67, 25]
+Xv: 27.539404088093445
+glc: 55.92160786063367
+gln: 2.0540897765891476e11
+lac: 49.011184696909844
+amm: 55.628652805010816
+mAb: 14.036388710470435
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 2806.0209758513424 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 3520.8356740296517 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 5 - [93, 53, 7, 36, 37]
+Xv: 19.981015609007578
+glc: 12.281883463123918
+gln: 1.5122829046251865e10
+lac: 108.09991751253352
+amm: 12.74680306677306
+mAb: 17.551107805865268
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 4021.937693984796 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1049.2770206234625 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 6 - [55, 14, 77, 36, 94, 46]
+Xv: 20.527571123859172
+glc: 15.851853838699109
+gln: 2.6021840878955487e11
+lac: 75.50456547580774
+amm: 12.342539247234303
+mAb: 18.41292424826747
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 3720.5179747091015 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1564.9927408319263 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 7 - [58, 94, 88, 54, 60, 4, 61]
+Xv: 18.879885852825904
+glc: 13.665332801870408
+gln: 1.4177610898791605e10
+lac: 81.70932780631254
+amm: 10.349514463291271
+mAb: 17.717516614284158
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1646.589716522791 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1828.6990960818641 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 8 - [64, 96, 41, 94, 83, 53, 74, 71]
+Xv: 47.78793899679719
+glc: 22.243232869077172
+gln: 3.0190386875689465e11
+lac: 55.79098804642527
+amm: 63.815477728532436
+mAb: 30.79961454494569
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 4548.569480566711 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 8497.887234780934 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 9 - [4, 55, 82, 78, 69, 47, 97, 20, 18]
+Xv: 13.883458659493764
+glc: 15.148723701885396
+gln: 6.075441087067199e10
+lac: 50.36345333218723
+amm: 11.383909245716964
+mAb: 24.208232635007086
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 877.5533127024603 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 896.6611377305254 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 10 - [76, 11, 15, 62, 58, 73, 19, 6, 88, 75]
+Xv: 17.227696827193583
+glc: 8.64368504448089
+gln: 1.761509459293994e10
+lac: 71.42158847419915
+amm: 10.773031890878197
+mAb: 18.6058154038175
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 924.7916381668963 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1268.708970907601 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 11 - [45, 69, 49, 47, 82, 51, 19, 76, 50, 79, 35]
+Xv: 14.35375291390097
+glc: 9.472165575634065
+gln: 3.3662184689325375e10
+lac: 41.38855448035432
+amm: 11.67318736489195
+mAb: 18.450746260340846
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 771.3129937828185 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 941.8841402017922 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 12 - [73, 49, 4, 1, 67, 64, 89, 19, 66, 83, 20, 28]
+Xv: 29.679780094823045
+glc: 31.91335773912981
+gln: 1.5252137520703458e11
+lac: 55.86179866800705
+amm: 46.199515492042416
+mAb: 12.24620979199632
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 5702.293873090013 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 3509.40998830328 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 13 - [69, 10, 20, 96, 64, 98, 19, 86, 24, 71, 53, 6, 83]
+Xv: 13.011140993979353
+glc: 10.500844384188863
+gln: 4.78217314111862e10
+lac: 61.948893140037384
+amm: 13.481926532223978
+mAb: 20.064748556836694
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 3186.2240270645448 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 809.7637553701674 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 14 - [81, 14, 68, 47, 26, 34, 59, 94, 96, 45, 53, 79, 44, 84]
+Xv: 16.293426685120917
+glc: 26.72690398837876
+gln: 1.601289962182765e11
+lac: 41.24954041730763
+amm: 30.10542440510873
+mAb: 16.810908777276012
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1481.7496773595005 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 942.7623572910697 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 15 - [22, 52, 98, 53, 8, 1, 83, 47, 41, 73, 40, 78, 11, 69, 61]
+Xv: 16.736128771490254
+glc: 12.317611894685005
+gln: 3.4185004310330963e10
+lac: 51.417803005019735
+amm: 9.904372509983316
+mAb: 20.800573871610098
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 897.1095507477496 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1382.6095418894754 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 16 - [25, 62, 59, 11, 39, 96, 40, 48, 47, 22, 44, 76, 29, 89, 72, 94]
+Xv: 16.804916429684173
+glc: 13.91388965718251
+gln: 9.96232852891075e10
+lac: 36.19463740453048
+amm: 12.41029836951582
+mAb: 16.21951656006549
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 815.9033109461565 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 978.2052908547878 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 17 - [55, 62, 74, 98, 5, 94, 41, 67, 71, 43, 4, 54, 21, 78, 36, 33, 25]
+Xv: 17.114107882426126
+glc: 13.240501288919154
+gln: 6.955737768516035e10
+lac: 66.86745138010617
+amm: 12.515996636893034
+mAb: 24.44870403595773
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 867.9447911001903 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1197.5508803388168 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 18 - [3, 57, 67, 21, 97, 81, 51, 35, 33, 68, 43, 38, 10, 15, 56, 79, 61, 40]
+Xv: 16.570245537167906
+glc: 14.582192312899767
+gln: 5.285489766848479e10
+lac: 63.372069224266234
+amm: 12.237829324340046
+mAb: 19.56884629153565
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 848.9524050549776 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1045.1257498980221 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 19 - [43, 79, 56, 1, 13, 73, 22, 77, 70, 38, 66, 19, 16, 7, 64, 72, 81, 5, 80]
+Xv: 15.116584343997047
+glc: 9.954899308402059
+gln: 3.0067300462185116e10
+lac: 50.74512420693333
+amm: 10.573200411133534
+mAb: 23.7795942331884
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 950.279564978125 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 979.1605008043346 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 20 - [25, 87, 41, 50, 74, 46, 59, 39, 7, 70, 68, 18, 45, 9, 69, 57, 72, 44, 65, 53]
+Xv: 16.20038465018036
+glc: 6.94208405940171
+gln: 9.440062465226907e10
+lac: 50.22133779930543
+amm: 10.729226870494976
+mAb: 22.754961396189763
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1309.3541337652107 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 985.1778717190638 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 21 - [80, 66, 54, 93, 76, 96, 85, 59, 41, 68, 36, 55, 61, 12, 47, 17, 79, 56, 6, 25, 67]
+Xv: 14.460949699002141
+glc: 21.799347312531854
+gln: 1.1388715159186528e11
+lac: 48.29688004442757
+amm: 23.368362444532668
+mAb: 14.229604795295126
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1124.4475925742477 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 807.8620171661915 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 22 - [36, 94, 82, 50, 39, 87, 28, 23, 98, 57, 21, 81, 84, 59, 65, 66, 16, 71, 69, 1, 18, 32]
+Xv: 16.69568558636915
+glc: 4.909846499081849
+gln: 5.072453595344937e10
+lac: 64.7589654309898
+amm: 10.056326054720277
+mAb: 20.63841529796243
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 957.3714301510327 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1097.068541017287 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 23 - [62, 7, 79, 71, 26, 53, 67, 34, 42, 11, 57, 95, 44, 66, 39, 78, 6, 32, 47, 8, 98, 51, 22]
+Xv: 16.535286187892286
+glc: 7.691458012619802
+gln: 1.7161184086206856e10
+lac: 50.11772663472449
+amm: 10.750670421916201
+mAb: 19.43670766768856
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 929.1496549523399 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1236.642945762597 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 24 - [16, 22, 57, 7, 21, 2, 87, 56, 67, 82, 23, 72, 33, 98, 49, 40, 65, 80, 18, 83, 4, 12, 62, 9]
+Xv: 16.867199336396155
+glc: 6.763505901380164
+gln: 5.383079644670128e10
+lac: 73.20688000554006
+amm: 7.411479246336934
+mAb: 21.264061981426387
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 819.51944206202 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 942.638908955964 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 25 - [91, 70, 47, 100, 16, 51, 75, 9, 63, 14, 87, 66, 3, 43, 61, 25, 7, 99, 11, 57, 12, 24, 83, 58, 33]
+Xv: 15.45756686756135
+glc: 9.355396797832704
+gln: 3.64086830860324e10
+lac: 63.22683667945207
+amm: 9.706159931329344
+mAb: 17.646930178146768
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1939.8260704618438 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 919.0815743217223 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 26 - [90, 34, 26, 30, 65, 44, 61, 49, 72, 16, 53, 79, 83, 18, 24, 77, 76, 88, 10, 86, 95, 43, 99, 9, 67, 89]
+Xv: 13.995913613982319
+glc: 9.07381925445371
+gln: 8.806150842959868e10
+lac: 58.90713077807638
+amm: 12.77390669319353
+mAb: 16.288976132584096
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 4061.343052048971 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 805.2843290853102 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 27 - [69, 85, 94, 97, 15, 37, 59, 16, 48, 18, 86, 25, 92, 26, 6, 88, 39, 20, 21, 34, 71, 55, 66, 52, 2, 10, 80]
+Xv: 17.342155919318937
+glc: 8.767720619492865
+gln: 2.4190551208099567e10
+lac: 58.96738669901107
+amm: 8.679879162126824
+mAb: 19.83383782276464
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 969.2473786966422 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1141.2564367127275 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 28 - [9, 63, 17, 89, 33, 66, 58, 6, 94, 45, 78, 24, 90, 53, 5, 82, 10, 85, 38, 50, 32, 29, 37, 70, 80, 62, 15, 96]
+Xv: 17.404231023776916
+glc: 7.888965449852107
+gln: 3.367947398502059e10
+lac: 67.16756391010975
+amm: 7.712273102859076
+mAb: 21.801355191893617
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 939.5537451543727 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 985.0784703402176 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 29 - [35, 8, 58, 71, 20, 6, 97, 18, 37, 47, 55, 30, 15, 64, 16, 21, 82, 59, 52, 98, 49, 22, 60, 14, 51, 95, 26, 29, 27]
+Xv: 14.26406420327778
+glc: 8.39382443609555
+gln: 3.8872650025083694e10
+lac: 69.1908517909778
+amm: 8.605669227393852
+mAb: 22.019327726289625
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 846.3666353127157 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 844.0595170550448 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 30 - [27, 60, 13, 81, 14, 65, 28, 82, 63, 71, 69, 86, 55, 90, 24, 97, 52, 22, 7, 29, 8, 72, 79, 59, 92, 41, 18, 9, 89, 95]
+Xv: 15.497749295315003
+glc: 8.914632480519032
+gln: 4.677054471482467e10
+lac: 56.95571771065474
+amm: 8.150178351189009
+mAb: 22.369993712400703
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 936.43349712751 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 985.1872742862017 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 31 - [38, 21, 16, 56, 46, 91, 92, 34, 60, 77, 44, 48, 30, 62, 11, 10, 25, 40, 98, 58, 47, 78, 39, 36, 86, 55, 68, 20, 63, 87, 5]
+Xv: 15.22937489779669
+glc: 10.233909475000523
+gln: 6.125271264941775e10
+lac: 67.57867049763507
+amm: 10.540593508713682
+mAb: 19.28363848218617
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 2691.7744986845432 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 927.998205560555 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 32 - [21, 4, 70, 66, 67, 82, 12, 42, 77, 99, 53, 94, 20, 56, 62, 32, 73, 38, 1, 97, 13, 49, 75, 48, 39, 51, 22, 76, 18, 41, 30, 40]
+Xv: 14.52666606152465
+glc: 7.2447108638416395
+gln: 6.661281154874323e10
+lac: 66.44931750391382
+amm: 10.911143405011599
+mAb: 18.393211644709545
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 830.3768476591702 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 848.3299624561504 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 33 - [21, 87, 96, 37, 82, 29, 3, 14, 65, 56, 41, 34, 36, 58, 20, 95, 70, 44, 27, 38, 30, 60, 89, 93, 39, 67, 50, 4, 77, 23, 55, 99, 31]
+Xv: 15.906168182423288
+glc: 7.124360381513482
+gln: 6.969763672556267e10
+lac: 74.03674828402336
+amm: 11.04754569082362
+mAb: 17.786008797726126
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 846.3024586711762 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 852.0472995821838 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 34 - [76, 64, 84, 62, 16, 79, 25, 5, 66, 36, 3, 94, 77, 32, 37, 39, 12, 49, 35, 33, 40, 90, 85, 65, 34, 42, 95, 93, 55, 100, 72, 29, 26, 97]
+Xv: 15.475562098574732
+glc: 6.373648932279657
+gln: 3.596833496551551e10
+lac: 49.505468996848634
+amm: 10.167491606495055
+mAb: 17.76911460796033
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1197.2198303568675 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 901.3958839732026 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 35 - [29, 43, 81, 33, 26, 24, 69, 89, 4, 35, 90, 25, 32, 1, 37, 48, 14, 45, 36, 82, 18, 84, 57, 88, 34, 52, 97, 54, 2, 40, 55, 77, 80, 50, 13]
+Xv: 16.05082274777466
+glc: 8.76190897042482
+gln: 4.6699129448716446e10
+lac: 68.70894372993753
+amm: 7.3352596435820665
+mAb: 15.49572838737662
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 835.097926952301 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 901.6061669636123 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 36 - [64, 56, 22, 74, 33, 95, 15, 16, 68, 18, 11, 71, 55, 9, 96, 10, 87, 4, 25, 99, 30, 63, 80, 49, 5, 82, 73, 94, 36, 26, 23, 48, 51, 76, 32, 83]
+Xv: 17.071092579899375
+glc: 7.5386676100030705
+gln: 7.564650467474829e10
+lac: 65.63063317597633
+amm: 9.667194745746926
+mAb: 21.362113330895678
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 856.1792250688327 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 926.727841730494 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 37 - [74, 2, 85, 69, 63, 35, 71, 41, 77, 45, 59, 93, 53, 31, 29, 81, 44, 39, 72, 46, 78, 94, 91, 73, 98, 22, 76, 58, 4, 55, 19, 86, 6, 87, 8, 82, 88]
+Xv: 15.765269389077849
+glc: 8.016611817935665
+gln: 4.542710409156493e10
+lac: 56.294144418341205
+amm: 7.659759660752529
+mAb: 19.965980285499484
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 878.9429022663774 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1071.8172248982492 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 38 - [50, 39, 29, 84, 40, 6, 81, 17, 90, 82, 87, 61, 79, 53, 1, 15, 44, 89, 65, 8, 78, 77, 12, 19, 57, 70, 55, 88, 49, 22, 35, 99, 76, 21, 96, 38, 68, 41]
+Xv: 14.960577402037817
+glc: 5.724931931149243
+gln: 5.456736736767877e10
+lac: 57.25628772381432
+amm: 8.072441402198478
+mAb: 17.60828385250254
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 893.8689215310202 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 835.4535893910012 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 39 - [22, 85, 46, 79, 98, 34, 83, 42, 75, 89, 82, 96, 36, 61, 48, 43, 24, 13, 38, 55, 62, 90, 54, 59, 31, 86, 41, 72, 28, 51, 78, 56, 65, 76, 26, 27, 93, 12, 99]
+Xv: 14.941215688258891
+glc: 8.662644192744521
+gln: 5.991162501903745e10
+lac: 71.55436836276323
+amm: 11.923576299155574
+mAb: 17.556651817906975
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1579.022553694889 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 849.6260249904841 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 40 - [74, 43, 55, 16, 37, 92, 79, 32, 36, 58, 70, 27, 38, 77, 34, 87, 52, 12, 7, 4, 9, 86, 26, 73, 13, 48, 91, 82, 64, 54, 11, 95, 72, 25, 100, 40, 68, 71, 51, 24]
+Xv: 16.82233279696613
+glc: 7.934585132974943
+gln: 4.6622191974532684e10
+lac: 64.28925335026598
+amm: 9.198427593231
+mAb: 20.743295627288486
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 4349.789251980576 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 996.863919893361 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 41 - [85, 34, 41, 25, 33, 56, 88, 11, 73, 92, 53, 59, 42, 98, 74, 45, 81, 32, 82, 68, 97, 19, 65, 75, 48, 89, 83, 77, 50, 70, 1, 91, 40, 51, 47, 49, 29, 100, 90, 23, 17]
+Xv: 15.453798369707764
+glc: 9.905493429176628
+gln: 1.2301417040448524e11
+lac: 51.426648231605654
+amm: 14.054231029976291
+mAb: 20.787475792929513
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1862.9319366393277 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 885.9168867366922 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 42 - [11, 87, 72, 80, 40, 8, 97, 49, 14, 58, 33, 51, 100, 64, 5, 48, 61, 23, 62, 52, 46, 28, 59, 31, 50, 76, 84, 94, 16, 39, 9, 73, 24, 65, 92, 13, 74, 1, 78, 82, 38, 75]
+Xv: 16.926496074904136
+glc: 7.272416329673864
+gln: 6.6685519711089455e10
+lac: 70.20885568754461
+amm: 8.676437204797205
+mAb: 21.09947532301853
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1412.6579523344753 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1103.1904985487915 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 43 - [82, 96, 45, 16, 4, 37, 70, 75, 83, 80, 49, 50, 35, 74, 10, 24, 51, 40, 43, 36, 44, 57, 33, 71, 67, 30, 47, 46, 34, 97, 22, 60, 98, 26, 23, 9, 38, 55, 52, 58, 86, 73, 39]
+Xv: 15.25390034975493
+glc: 8.451781701509455
+gln: 4.9573079478616516e10
+lac: 70.48530614047388
+amm: 9.040957343759302
+mAb: 20.53723349396555
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 899.3908078886037 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 872.6922881418533 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 44 - [26, 15, 96, 42, 78, 22, 48, 55, 63, 71, 59, 38, 41, 36, 85, 100, 12, 27, 54, 67, 30, 13, 45, 50, 81, 95, 87, 98, 58, 57, 3, 93, 79, 9, 44, 31, 10, 17, 89, 16, 11, 64, 5, 35]
+Xv: 15.067751099663852
+glc: 6.908494245586022
+gln: 3.957202742290559e10
+lac: 66.47382992181137
+amm: 10.26562159252366
+mAb: 20.53535797953669
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 858.6149350206639 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 874.3493278191825 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 45 - [57, 4, 88, 78, 52, 14, 7, 6, 55, 3, 69, 79, 91, 93, 38, 96, 44, 23, 15, 92, 13, 62, 39, 35, 94, 34, 97, 25, 59, 12, 84, 60, 49, 67, 48, 36, 71, 24, 63, 58, 66, 68, 65, 81, 50]
+Xv: 15.967466889419718
+glc: 7.06549722503148
+gln: 3.58746020372136e9
+lac: 59.163482944383084
+amm: 7.404231966224661
+mAb: 18.187805350143282
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 848.2972779594124 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 989.2889582708815 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 46 - [74, 50, 27, 29, 8, 66, 100, 99, 92, 21, 2, 67, 23, 34, 36, 93, 98, 40, 83, 60, 48, 52, 55, 59, 70, 18, 31, 12, 58, 72, 13, 89, 86, 95, 84, 51, 80, 68, 53, 11, 87, 4, 39, 97, 32, 82]
+Xv: 16.455093551538273
+glc: 6.436182591544938
+gln: 3.603825240608522e10
+lac: 68.78147436528083
+amm: 8.462185187906364
+mAb: 22.154335393381945
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 904.8821005577498 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 986.7103043350498 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 47 - [36, 43, 65, 62, 48, 80, 2, 67, 46, 83, 72, 55, 76, 56, 45, 35, 49, 90, 10, 71, 9, 70, 100, 69, 39, 87, 86, 7, 25, 99, 11, 75, 73, 27, 78, 81, 54, 92, 94, 28, 44, 57, 79, 34, 98, 53, 14]
+Xv: 16.470859160161588
+glc: 7.724540066253533
+gln: 3.1795296134933716e10
+lac: 63.84580054800468
+amm: 9.753995369155438
+mAb: 17.03843484407002
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 2027.814678463551 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 997.8400284424861 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 48 - [66, 5, 54, 78, 67, 68, 76, 77, 72, 65, 53, 23, 83, 50, 88, 19, 42, 69, 87, 85, 46, 18, 51, 22, 44, 57, 71, 27, 55, 11, 49, 7, 96, 45, 36, 75, 81, 31, 61, 15, 92, 97, 99, 89, 59, 10, 91, 40]
+Xv: 15.519806199049938
+glc: 5.568776057439933
+gln: 1.982870468579379e10
+lac: 62.64371782669359
+amm: 10.089631024536882
+mAb: 20.71881088045627
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 861.1126932027739 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 923.7378880614416 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 49 - [36, 74, 89, 38, 86, 69, 26, 59, 7, 12, 35, 34, 64, 28, 8, 29, 84, 20, 32, 68, 41, 50, 9, 25, 49, 77, 19, 46, 58, 2, 18, 90, 14, 85, 91, 75, 6, 51, 33, 81, 65, 1, 80, 76, 30, 47, 27, 39, 15]
+Xv: 15.461010123187801
+glc: 7.113832905013555
+gln: 8.126754943167044e10
+lac: 51.007464902501894
+amm: 10.92057863793177
+mAb: 18.295398709052854
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1956.334913673839 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 917.0168841205793 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 50 - [40, 92, 87, 57, 78, 52, 51, 39, 33, 45, 75, 80, 47, 83, 68, 46, 88, 1, 28, 29, 38, 74, 27, 85, 31, 91, 64, 16, 5, 10, 26, 56, 72, 69, 9, 24, 32, 82, 3, 49, 50, 4, 76, 59, 96, 93, 71, 98, 61, 48]
+Xv: 15.147689337318187
+glc: 7.010292404867732
+gln: 6.057232317607064e10
+lac: 62.99534381857568
+amm: 8.853592104252634
+mAb: 21.57295907179616
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 977.469955159452 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 872.5234476162115 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 51 - [40, 26, 39, 42, 22, 77, 14, 64, 94, 8, 51, 7, 37, 33, 79, 16, 48, 67, 25, 68, 13, 93, 24, 75, 60, 74, 56, 21, 98, 96, 53, 76, 36, 46, 89, 70, 66, 54, 91, 78, 27, 12, 45, 30, 11, 61, 9, 10, 83, 31, 84]
+Xv: 14.088090622312807
+glc: 18.223150332881882
+gln: 1.3237497578832585e11
+lac: 71.8483940911137
+amm: 24.262555490774204
+mAb: 17.899419238425747
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 3413.3461311014494 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 777.3261243242512 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 52 - [53, 43, 51, 86, 34, 1, 11, 80, 76, 45, 75, 15, 61, 87, 74, 65, 90, 17, 83, 73, 54, 82, 19, 64, 60, 89, 62, 32, 14, 42, 2, 71, 12, 6, 95, 70, 30, 67, 36, 99, 47, 4, 10, 16, 88, 100, 37, 94, 38, 33, 48, 28]
+Xv: 15.940852778153788
+glc: 7.134891469021332
+gln: 7.514178271690099e10
+lac: 68.63731142056626
+amm: 9.501383498588922
+mAb: 16.92179446425584
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 2160.9252920026597 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 907.1767992245753 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 53 - [60, 47, 20, 94, 12, 90, 53, 93, 9, 36, 83, 99, 89, 32, 25, 18, 55, 56, 48, 4, 79, 54, 6, 5, 65, 31, 38, 52, 92, 10, 40, 13, 17, 71, 19, 100, 16, 73, 87, 2, 28, 11, 82, 49, 23, 64, 80, 95, 86, 67, 15, 50, 74]
+Xv: 16.71323163364079
+glc: 6.5666491519112125
+gln: 4.160886324396e10
+lac: 61.675656216182496
+amm: 8.452963610034619
+mAb: 19.450396185953704
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1034.8549134160123 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1000.4419519212374 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 54 - [94, 98, 11, 38, 29, 9, 51, 42, 19, 47, 48, 75, 24, 22, 64, 13, 81, 46, 25, 37, 67, 43, 57, 97, 96, 54, 86, 49, 59, 45, 39, 63, 82, 40, 17, 8, 16, 85, 35, 84, 28, 62, 76, 71, 12, 100, 78, 61, 7, 30, 32, 4, 41, 44]
+Xv: 13.96931434623653
+glc: 8.966339408899294
+gln: 7.153468727963802e10
+lac: 62.35096367281685
+amm: 14.531378180928142
+mAb: 18.62486891604295
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1873.0518139531143 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 784.0045841043195 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 55 - [66, 18, 1, 12, 70, 19, 6, 25, 73, 94, 11, 14, 20, 2, 55, 91, 87, 3, 32, 30, 10, 54, 88, 77, 68, 36, 26, 79, 13, 81, 27, 76, 61, 47, 39, 62, 7, 40, 5, 75, 100, 33, 9, 95, 22, 58, 57, 56, 49, 24, 52, 85, 50, 29, 72]
+Xv: 15.49964678790962
+glc: 7.1099691416727175
+gln: 2.96615029689728e10
+lac: 52.44812476153632
+amm: 9.08601210190933
+mAb: 19.907156885056583
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 841.7064364526038 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 948.5368547475803 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 56 - [25, 35, 93, 28, 44, 77, 24, 73, 70, 85, 10, 47, 5, 11, 40, 79, 31, 87, 38, 13, 41, 36, 49, 34, 23, 1, 78, 4, 81, 57, 8, 54, 45, 68, 19, 96, 63, 56, 98, 71, 46, 12, 20, 2, 9, 51, 86, 76, 48, 60, 3, 89, 37, 15, 53, 30]
+Xv: 15.480734169710647
+glc: 8.075736986378418
+gln: 7.386610538298708e10
+lac: 66.6147514233786
+amm: 11.4499611313904
+mAb: 18.23766823306292
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1603.457170858415 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 884.9847562081345 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 57 - [66, 28, 2, 24, 41, 31, 16, 47, 32, 56, 54, 86, 99, 49, 59, 39, 52, 38, 97, 98, 81, 95, 10, 8, 74, 83, 84, 29, 65, 53, 62, 6, 63, 40, 80, 94, 34, 57, 71, 55, 50, 21, 37, 87, 7, 69, 43, 11, 85, 70, 13, 12, 42, 76, 5, 51, 68]
+Xv: 15.414266585286422
+glc: 7.056437055221876
+gln: 2.0938704640630905e10
+lac: 57.29684006812822
+amm: 8.75776488904894
+mAb: 19.5795862692907
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 855.0715060365366 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 905.0495146796828 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 58 - [61, 74, 64, 35, 86, 99, 38, 96, 92, 20, 82, 31, 14, 49, 46, 6, 48, 10, 2, 32, 76, 79, 39, 21, 16, 3, 94, 66, 50, 47, 75, 72, 57, 100, 91, 56, 40, 83, 8, 70, 59, 28, 95, 19, 81, 30, 34, 52, 45, 67, 65, 11, 13, 78, 44, 18, 53, 7]
+Xv: 15.479502937917445
+glc: 6.402709390510017
+gln: 4.243312851731727e10
+lac: 57.30447409346768
+amm: 10.78434800047914
+mAb: 18.249736445353403
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 824.1707964784667 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 945.9353799225115 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 59 - [6, 7, 3, 79, 15, 47, 14, 74, 77, 99, 37, 39, 100, 9, 93, 25, 69, 71, 45, 65, 42, 52, 23, 48, 22, 98, 88, 66, 82, 83, 21, 91, 34, 81, 86, 96, 44, 70, 27, 90, 92, 89, 60, 20, 19, 1, 80, 56, 18, 5, 24, 38, 17, 26, 63, 61, 97, 72, 10]
+Xv: 15.746087262512413
+glc: 7.175445711549343
+gln: 5.0381214460652916e10
+lac: 66.09343527885878
+amm: 10.63252967127001
+mAb: 19.227657897660652
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1053.0622770030318 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 899.5789477377008 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 60 - [72, 87, 95, 16, 37, 96, 33, 20, 84, 51, 7, 73, 71, 1, 93, 6, 3, 10, 61, 12, 24, 52, 91, 90, 68, 92, 39, 55, 26, 27, 57, 65, 46, 15, 56, 63, 11, 100, 97, 23, 17, 94, 8, 85, 74, 25, 36, 50, 18, 77, 58, 59, 35, 89, 49, 69, 75, 83, 29, 48]
+Xv: 16.10438292876011
+glc: 7.885149807391614
+gln: 4.817112957421424e10
+lac: 57.40223862896505
+amm: 10.42448135342428
+mAb: 19.224357559057843
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1611.3267133955599 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 898.1763870803807 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 61 - [59, 71, 87, 79, 55, 25, 15, 39, 81, 19, 24, 9, 58, 10, 38, 50, 6, 95, 94, 3, 36, 68, 65, 67, 75, 23, 60, 27, 31, 45, 43, 34, 17, 11, 18, 99, 98, 80, 20, 4, 46, 54, 47, 12, 62, 85, 5, 100, 16, 51, 21, 91, 22, 2, 76, 28, 41, 90, 29, 83, 37]
+Xv: 14.902211145219024
+glc: 7.693296890913389
+gln: 2.60382709406415e10
+lac: 65.97948289274842
+amm: 9.177997128217285
+mAb: 19.70757902300969
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 831.9019691852606 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 905.1300235208943 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 62 - [100, 36, 13, 67, 76, 89, 63, 81, 88, 75, 1, 37, 38, 18, 10, 19, 84, 77, 53, 74, 16, 79, 66, 80, 34, 68, 86, 85, 26, 3, 57, 55, 56, 70, 32, 41, 28, 51, 62, 98, 7, 82, 4, 72, 61, 58, 93, 2, 25, 44, 21, 90, 14, 35, 15, 42, 46, 94, 91, 8, 40, 49]
+Xv: 15.850358684715163
+glc: 6.309913247704903
+gln: 4.543255131007413e10
+lac: 64.38066199964014
+amm: 9.373342648022465
+mAb: 18.201826269699637
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 846.5092285048022 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 930.3521520117406 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 63 - [55, 15, 17, 24, 78, 44, 99, 62, 80, 52, 11, 21, 66, 36, 50, 58, 2, 89, 53, 82, 71, 40, 42, 9, 57, 61, 5, 30, 29, 73, 25, 67, 7, 37, 91, 10, 41, 54, 23, 22, 92, 4, 68, 76, 86, 88, 70, 98, 35, 77, 49, 93, 60, 59, 48, 56, 6, 51, 47, 34, 69, 97, 65]
+Xv: 15.466829633784673
+glc: 7.766766573921164
+gln: 3.458699921629345e10
+lac: 67.3156058043133
+amm: 8.705467939565157
+mAb: 19.12720515516336
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 866.0778979265268 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 894.055813104743 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 64 - [100, 71, 59, 87, 95, 94, 48, 15, 73, 85, 70, 76, 30, 4, 62, 46, 22, 35, 49, 28, 90, 81, 10, 57, 23, 18, 14, 96, 17, 67, 13, 20, 32, 63, 61, 58, 33, 51, 54, 97, 44, 89, 29, 38, 31, 9, 34, 64, 60, 92, 24, 40, 37, 72, 25, 27, 86, 79, 41, 78, 50, 2, 56, 26]
+Xv: 15.2520771142582
+glc: 7.967457363853747
+gln: 6.980528271848273e10
+lac: 65.85700090907923
+amm: 10.668620573661356
+mAb: 19.857859228563026
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 835.4039703762633 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 894.5078263040809 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 65 - [2, 98, 9, 67, 18, 95, 99, 83, 55, 32, 86, 73, 45, 44, 74, 3, 23, 40, 93, 88, 48, 4, 1, 85, 90, 57, 77, 46, 72, 79, 82, 71, 50, 87, 43, 19, 13, 8, 64, 34, 65, 42, 52, 97, 76, 92, 56, 22, 61, 20, 16, 21, 12, 10, 29, 62, 96, 30, 70, 25, 59, 38, 47, 89, 15]
+Xv: 15.252581100644132
+glc: 6.737315945091166
+gln: 4.887603612286427e10
+lac: 60.032998842804574
+amm: 9.302376635294982
+mAb: 19.568900887223233
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 850.8177358502927 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 841.7636395287458 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 66 - [20, 21, 85, 92, 25, 19, 6, 96, 31, 28, 11, 39, 74, 64, 17, 97, 14, 62, 76, 47, 40, 12, 72, 61, 54, 10, 58, 73, 15, 57, 94, 63, 49, 41, 42, 68, 9, 52, 8, 81, 78, 4, 77, 56, 1, 79, 18, 33, 22, 95, 38, 90, 70, 55, 26, 82, 7, 71, 87, 36, 84, 51, 80, 48, 93, 16]
+Xv: 16.46387459621237
+glc: 8.0369445665107
+gln: 6.6215988448752e10
+lac: 59.49725423606208
+amm: 9.746020519419897
+mAb: 19.096746650067633
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1390.6289593431038 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 915.4455751555315 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 67 - [54, 68, 56, 77, 59, 63, 71, 67, 66, 23, 51, 48, 82, 39, 87, 10, 29, 46, 24, 16, 30, 32, 42, 2, 36, 86, 78, 70, 100, 13, 49, 98, 73, 97, 15, 37, 44, 5, 74, 31, 65, 18, 47, 96, 85, 17, 89, 43, 4, 21, 11, 40, 9, 91, 52, 95, 76, 27, 45, 41, 60, 79, 26, 34, 57, 50, 88]
+Xv: 14.823188766034617
+glc: 6.225327393108417
+gln: 3.97324093763766e10
+lac: 64.40398603913799
+amm: 8.189104620521237
+mAb: 21.447518455154384
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 833.0583765466554 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 842.5698611462482 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 68 - [71, 64, 100, 80, 21, 55, 33, 48, 37, 52, 92, 81, 73, 77, 24, 13, 16, 26, 3, 41, 74, 51, 84, 57, 82, 69, 86, 94, 50, 70, 54, 17, 61, 22, 46, 43, 60, 38, 15, 5, 97, 63, 68, 44, 75, 98, 83, 27, 35, 7, 18, 93, 89, 65, 30, 34, 6, 56, 2, 4, 88, 23, 11, 53, 76, 1, 67, 79]
+Xv: 14.954149954997732
+glc: 7.391377995585871
+gln: 3.6609300303417595e10
+lac: 68.46864253346334
+amm: 8.378799604343616
+mAb: 19.925974684074674
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 868.7227230150637 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 898.9585966558625 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 69 - [52, 32, 78, 50, 64, 65, 55, 30, 72, 11, 6, 16, 10, 88, 69, 2, 18, 90, 75, 63, 73, 28, 94, 4, 68, 67, 61, 42, 24, 37, 49, 39, 9, 3, 33, 86, 17, 74, 23, 54, 46, 60, 19, 59, 62, 45, 95, 40, 51, 53, 27, 66, 43, 89, 20, 70, 76, 14, 13, 79, 1, 22, 96, 56, 84, 44, 87, 82, 58]
+Xv: 15.388230932376782
+glc: 7.464989687705781
+gln: 4.023008779907555e10
+lac: 69.36018069787208
+amm: 8.29222155482006
+mAb: 17.716403532489107
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 865.4017673211769 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 930.0677487453087 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 70 - [96, 43, 69, 37, 47, 23, 9, 42, 80, 41, 40, 82, 91, 10, 29, 74, 18, 61, 30, 77, 87, 45, 7, 31, 2, 35, 94, 15, 83, 65, 16, 19, 26, 36, 60, 98, 1, 28, 25, 52, 5, 72, 21, 79, 27, 17, 55, 53, 89, 68, 56, 32, 97, 44, 8, 20, 99, 85, 63, 88, 71, 39, 48, 58, 22, 100, 14, 66, 38, 49]
+Xv: 15.764821062449673
+glc: 6.769186634493128
+gln: 3.958748150799378e10
+lac: 61.592666394382704
+amm: 8.069587676926341
+mAb: 20.306911849591206
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 890.1545815514763 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 905.8471723962292 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 71 - [99, 66, 37, 57, 74, 84, 61, 94, 29, 90, 72, 44, 35, 21, 46, 38, 7, 26, 4, 8, 87, 69, 83, 42, 73, 31, 75, 82, 65, 33, 80, 12, 2, 14, 85, 30, 51, 10, 28, 78, 18, 98, 52, 76, 48, 53, 56, 32, 43, 63, 68, 96, 79, 49, 67, 91, 86, 34, 92, 50, 59, 47, 40, 70, 81, 93, 54, 55, 20, 97, 22]
+Xv: 15.06361262850536
+glc: 6.866296713421291
+gln: 5.807123871260333e10
+lac: 61.990626690939074
+amm: 10.043432401637833
+mAb: 16.66813527910642
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 913.7089960372031 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 862.2500946316562 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 72 - [1, 90, 37, 91, 29, 49, 76, 14, 27, 24, 67, 3, 69, 60, 75, 31, 63, 16, 72, 66, 9, 64, 15, 19, 92, 47, 82, 4, 6, 10, 8, 61, 58, 28, 56, 36, 17, 11, 57, 53, 99, 74, 83, 20, 25, 51, 93, 87, 35, 62, 41, 18, 12, 39, 13, 70, 54, 68, 55, 59, 30, 44, 52, 71, 46, 38, 40, 100, 65, 86, 78, 22]
+Xv: 14.993596833520643
+glc: 7.386109419625061
+gln: 5.13986915900748e10
+lac: 68.20483078139983
+amm: 9.137145355464375
+mAb: 17.9402935037985
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 916.4974300653988 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 912.573145560626 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 73 - [59, 87, 88, 30, 19, 1, 90, 75, 17, 47, 58, 61, 32, 38, 76, 35, 41, 10, 81, 56, 65, 99, 24, 92, 40, 74, 57, 7, 69, 60, 11, 34, 95, 8, 86, 73, 42, 51, 94, 54, 66, 79, 62, 25, 53, 72, 80, 98, 70, 37, 6, 100, 89, 78, 21, 97, 9, 29, 67, 2, 36, 48, 12, 20, 85, 4, 82, 22, 64, 28, 18, 23, 50]
+Xv: 15.317472391619999
+glc: 7.164500384953194
+gln: 5.8669601327591644e10
+lac: 62.63418755218775
+amm: 10.43880595039976
+mAb: 18.203471641084317
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 871.188652500938 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 916.5473201480798 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 74 - [37, 43, 59, 63, 46, 21, 23, 20, 14, 82, 66, 41, 24, 1, 17, 51, 9, 57, 55, 16, 53, 48, 39, 58, 64, 34, 7, 81, 71, 35, 60, 61, 65, 44, 73, 45, 93, 2, 54, 6, 84, 52, 22, 26, 15, 25, 89, 11, 49, 30, 12, 29, 79, 36, 76, 67, 31, 68, 98, 47, 85, 27, 75, 92, 28, 99, 88, 38, 19, 32, 97, 100, 62, 94]
+Xv: 14.814346841717416
+glc: 7.160765102749302
+gln: 5.3902810954710236e10
+lac: 63.86922317182153
+amm: 10.26896698449769
+mAb: 18.118535222746377
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1138.6247932765048 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 861.0987568744093 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 75 - [15, 3, 53, 52, 48, 57, 71, 74, 88, 100, 94, 80, 99, 31, 28, 87, 72, 35, 14, 59, 98, 68, 95, 92, 63, 33, 81, 44, 16, 79, 26, 45, 51, 27, 77, 29, 24, 70, 43, 76, 82, 36, 64, 93, 69, 55, 84, 54, 38, 47, 2, 89, 21, 8, 42, 25, 11, 12, 5, 40, 22, 62, 97, 9, 96, 91, 23, 90, 37, 60, 41, 32, 56, 30, 19]
+Xv: 15.807292390356794
+glc: 6.770107018737394
+gln: 4.554417183402459e10
+lac: 66.41828137885553
+amm: 8.587767390689766
+mAb: 19.130875457270108
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 841.2825019322266 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 887.047538790276 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 76 - [34, 85, 2, 37, 97, 12, 72, 35, 76, 88, 46, 96, 64, 55, 59, 43, 36, 50, 89, 86, 53, 80, 30, 79, 66, 5, 33, 71, 19, 87, 1, 38, 44, 78, 94, 61, 62, 100, 14, 84, 95, 11, 41, 47, 48, 28, 56, 21, 27, 13, 52, 60, 9, 45, 99, 24, 82, 8, 39, 63, 92, 68, 15, 4, 49, 23, 40, 65, 75, 31, 10, 73, 22, 57, 91, 77]
+Xv: 15.431406453173125
+glc: 6.6028327524197294
+gln: 4.263187628737944e10
+lac: 59.47828643269752
+amm: 8.15043207539196
+mAb: 19.512223966894872
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 829.035676405451 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 878.6823095868924 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 77 - [85, 87, 71, 12, 1, 73, 76, 27, 49, 75, 3, 10, 78, 41, 24, 86, 31, 91, 68, 46, 56, 54, 47, 39, 25, 66, 72, 99, 6, 82, 43, 32, 11, 98, 96, 42, 26, 84, 37, 23, 14, 88, 51, 13, 55, 17, 57, 52, 69, 28, 67, 20, 5, 7, 33, 94, 81, 29, 45, 19, 63, 34, 30, 97, 77, 9, 4, 80, 40, 62, 95, 61, 93, 8, 18, 79, 60]
+Xv: 14.788966638390255
+glc: 6.560015899324018
+gln: 4.4711865081418434e10
+lac: 62.2225255512676
+amm: 8.017390042033517
+mAb: 18.78820955904033
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 821.5499505725163 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 878.5477565337726 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 78 - [61, 33, 85, 3, 75, 15, 30, 46, 79, 19, 90, 63, 80, 54, 11, 38, 1, 87, 36, 94, 39, 32, 69, 21, 53, 45, 10, 25, 72, 70, 58, 81, 14, 47, 88, 99, 68, 44, 2, 43, 16, 18, 23, 56, 29, 49, 92, 20, 65, 59, 77, 78, 64, 62, 93, 35, 27, 37, 74, 91, 12, 40, 57, 17, 34, 86, 41, 55, 60, 28, 66, 52, 98, 50, 6, 8, 100, 95]
+Xv: 15.820431267223295
+glc: 6.226644605192006
+gln: 2.618678773145148e10
+lac: 61.93660240600289
+amm: 7.429590415792974
+mAb: 18.0554085664166
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 847.692889923842 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 999.855869970295 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 79 - [34, 33, 23, 41, 19, 51, 10, 68, 44, 2, 53, 84, 36, 61, 57, 63, 75, 77, 21, 40, 87, 30, 80, 62, 56, 65, 16, 69, 46, 86, 48, 37, 92, 38, 12, 99, 60, 43, 67, 35, 50, 47, 24, 27, 59, 14, 6, 78, 93, 100, 73, 18, 72, 94, 74, 66, 76, 98, 9, 3, 26, 70, 1, 7, 79, 83, 8, 20, 22, 54, 88, 29, 52, 58, 45, 82, 64, 89, 11]
+Xv: 15.18610001424387
+glc: 6.571238145191451
+gln: 5.3482065275258026e10
+lac: 65.51351388868936
+amm: 9.283685483743549
+mAb: 17.916174212655978
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 876.3822838948049 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 896.8142530755773 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 80 - [65, 91, 88, 29, 67, 26, 89, 97, 22, 48, 85, 80, 60, 18, 39, 52, 73, 27, 63, 51, 61, 95, 19, 6, 33, 87, 16, 74, 11, 41, 20, 7, 15, 42, 9, 94, 36, 99, 75, 56, 53, 79, 70, 82, 47, 76, 64, 5, 59, 54, 23, 46, 72, 68, 93, 34, 45, 3, 100, 50, 66, 69, 4, 49, 24, 10, 1, 37, 92, 84, 44, 86, 55, 78, 77, 35, 17, 25, 71, 57]
+Xv: 15.06818492249146
+glc: 6.446826810957454
+gln: 4.693878321916809e10
+lac: 57.70852914991323
+amm: 9.443542982470259
+mAb: 19.701480787727785
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 839.77207246801 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 889.2040761571707 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 81 - [82, 80, 92, 17, 47, 3, 89, 76, 85, 71, 68, 57, 86, 51, 16, 53, 70, 20, 95, 77, 84, 32, 90, 40, 34, 35, 94, 91, 75, 14, 6, 74, 38, 72, 93, 49, 12, 9, 7, 8, 24, 100, 22, 42, 78, 99, 25, 37, 81, 55, 41, 60, 73, 21, 26, 39, 10, 79, 52, 1, 23, 58, 88, 4, 2, 59, 5, 67, 46, 33, 19, 30, 44, 65, 66, 31, 96, 15, 63, 45, 62]
+Xv: 15.797353972770395
+glc: 6.569712382955056
+gln: 4.8606823698347946e10
+lac: 61.20073015831365
+amm: 8.592917960268844
+mAb: 18.624025713306143
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 882.5719042365429 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 916.6606270644559 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 82 - [6, 47, 67, 87, 42, 32, 48, 82, 64, 58, 30, 23, 95, 17, 55, 10, 4, 84, 37, 80, 93, 50, 77, 5, 16, 88, 60, 78, 15, 92, 51, 36, 81, 1, 83, 28, 41, 76, 62, 79, 89, 19, 66, 63, 18, 11, 65, 22, 45, 75, 7, 3, 97, 14, 27, 56, 94, 44, 29, 85, 54, 99, 9, 90, 72, 59, 49, 91, 86, 100, 61, 57, 53, 21, 39, 74, 98, 38, 40, 73, 96, 25]
+Xv: 15.688619108119752
+glc: 6.007205185608453
+gln: 4.801908149724484e10
+lac: 63.870435270153095
+amm: 9.105301989713581
+mAb: 18.649623685954094
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 897.7426271343795 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 927.0326138368556 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 83 - [66, 51, 100, 90, 69, 93, 30, 87, 86, 92, 96, 34, 91, 49, 68, 56, 60, 48, 6, 9, 44, 37, 55, 7, 40, 88, 98, 4, 17, 65, 33, 32, 18, 8, 82, 84, 15, 71, 61, 42, 43, 59, 38, 64, 27, 2, 76, 89, 74, 24, 14, 5, 85, 46, 67, 28, 99, 62, 31, 54, 79, 97, 73, 72, 45, 57, 19, 22, 36, 53, 80, 23, 81, 39, 63, 78, 95, 83, 75, 50, 25, 47, 16]
+Xv: 15.740466526676332
+glc: 6.610632006711589
+gln: 5.339386792670143e10
+lac: 65.5890210210538
+amm: 9.288746176270847
+mAb: 19.181432367256786
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 1055.83454890451 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 932.9697419943919 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 84 - [28, 83, 80, 84, 88, 52, 57, 23, 14, 32, 94, 75, 79, 70, 89, 62, 82, 98, 48, 67, 15, 27, 21, 3, 16, 68, 65, 30, 37, 33, 39, 1, 44, 22, 86, 49, 46, 92, 85, 53, 6, 58, 91, 61, 99, 74, 4, 66, 95, 19, 2, 10, 63, 90, 13, 59, 96, 18, 31, 50, 51, 17, 81, 9, 76, 8, 41, 34, 93, 97, 11, 26, 60, 55, 73, 29, 25, 47, 24, 12, 77, 38, 43, 20]
+Xv: 14.94681947580946
+glc: 7.076286987919718
+gln: 5.7244261768822525e10
+lac: 62.97704347445073
+amm: 8.910093593408593
+mAb: 18.28556637392924
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 922.3630203695147 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 855.3751762481447 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 85 - [34, 2, 85, 98, 9, 59, 35, 3, 69, 33, 66, 48, 57, 83, 80, 86, 71, 4, 93, 14, 94, 68, 49, 45, 50, 19, 88, 55, 7, 13, 37, 87, 27, 21, 72, 63, 8, 47, 95, 36, 97, 81, 92, 42, 5, 82, 51, 46, 11, 6, 43, 32, 24, 84, 78, 73, 44, 23, 99, 17, 90, 67, 29, 65, 89, 1, 12, 10, 60, 77, 79, 75, 26, 25, 40, 61, 16, 30, 18, 64, 15, 53, 74, 54, 20]
+Xv: 14.973407579532797
+glc: 6.614035173840076
+gln: 4.8833301974632195e10
+lac: 65.07646907485226
+amm: 8.446607097842634
+mAb: 18.290989202895325
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 953.4168126187074 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 863.9313771473907 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 86 - [45, 42, 22, 43, 50, 37, 78, 27, 51, 57, 88, 55, 75, 4, 96, 16, 1, 85, 92, 63, 26, 83, 30, 77, 54, 11, 15, 68, 62, 99, 5, 24, 2, 35, 47, 9, 59, 72, 38, 14, 6, 64, 89, 31, 73, 61, 100, 56, 82, 98, 93, 66, 25, 58, 49, 19, 74, 29, 46, 80, 8, 65, 95, 90, 53, 69, 12, 60, 13, 33, 84, 18, 23, 10, 3, 48, 79, 44, 17, 41, 7, 67, 32, 76, 39, 97]
+Xv: 15.195156601367799
+glc: 6.361168650824942
+gln: 4.81924957625563e10
+lac: 62.034689798078965
+amm: 8.38410307492866
+mAb: 19.59770346697562
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 839.8228284108808 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 892.6234625205096 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 87 - [18, 82, 7, 44, 56, 89, 87, 5, 23, 86, 2, 78, 38, 84, 6, 1, 97, 11, 100, 76, 66, 36, 90, 77, 61, 41, 48, 73, 30, 16, 88, 52, 26, 49, 22, 80, 62, 60, 54, 72, 95, 68, 10, 93, 51, 85, 31, 50, 65, 13, 59, 46, 25, 99, 34, 40, 24, 71, 28, 37, 4, 63, 12, 74, 58, 17, 15, 55, 3, 27, 21, 53, 96, 42, 32, 19, 79, 47, 64, 8, 81, 67, 14, 39, 35, 9, 43]
+Xv: 15.569509913122928
+glc: 6.942166578478261
+gln: 4.560648521951878e10
+lac: 62.869656900039
+amm: 9.20340238200017
+mAb: 18.304021086761292
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 906.1277815669808 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 895.3575721429728 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 88 - [89, 29, 64, 21, 22, 69, 76, 31, 50, 98, 13, 58, 88, 11, 2, 35, 79, 93, 42, 3, 86, 8, 84, 54, 34, 59, 53, 44, 9, 74, 51, 36, 5, 91, 78, 75, 24, 65, 26, 14, 45, 18, 57, 1, 37, 16, 40, 6, 62, 39, 67, 99, 33, 82, 41, 43, 56, 95, 28, 46, 17, 47, 10, 60, 87, 7, 72, 96, 66, 52, 23, 81, 32, 73, 68, 90, 92, 83, 15, 77, 49, 30, 20, 55, 71, 4, 25, 38]
+Xv: 15.074413768244979
+glc: 6.47878944467051
+gln: 4.1978721769491516e10
+lac: 65.86029959739773
+amm: 7.580003919826712
+mAb: 19.51514397989843
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 826.199805285297 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 897.295398535789 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 89 - [99, 36, 39, 9, 71, 58, 63, 86, 52, 27, 70, 7, 100, 61, 47, 50, 15, 43, 94, 64, 87, 72, 10, 12, 40, 6, 80, 54, 35, 75, 37, 18, 41, 14, 23, 38, 5, 66, 1, 29, 97, 88, 20, 96, 48, 55, 78, 59, 34, 32, 95, 53, 26, 30, 68, 73, 77, 42, 3, 19, 93, 90, 4, 76, 57, 49, 11, 8, 45, 74, 65, 62, 2, 46, 81, 82, 83, 91, 79, 51, 56, 60, 25, 92, 13, 44, 98, 85, 84]
+Xv: 15.540937290387676
+glc: 6.44571601047496
+gln: 3.4113216935320343e10
+lac: 61.577583733763475
+amm: 8.389156928072222
+mAb: 19.764463859116077
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 852.1787171702217 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 917.8247418949744 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 90 - [62, 66, 95, 10, 76, 24, 14, 30, 19, 4, 99, 15, 56, 64, 38, 84, 35, 55, 57, 18, 26, 94, 71, 29, 89, 9, 28, 91, 85, 98, 47, 11, 42, 86, 31, 7, 33, 83, 63, 6, 51, 88, 21, 92, 77, 16, 22, 54, 97, 73, 58, 75, 90, 8, 20, 78, 45, 72, 52, 70, 23, 60, 61, 53, 67, 79, 87, 65, 44, 25, 41, 32, 68, 12, 17, 3, 81, 36, 34, 40, 5, 93, 59, 37, 2, 69, 49, 80, 39, 48]
+Xv: 15.639061389402698
+glc: 6.696831400017822
+gln: 4.827626732663388e10
+lac: 64.26186928575251
+amm: 9.69839800645637
+mAb: 18.101036909913155
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 862.8891098344259 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 934.1685162661224 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 91 - [15, 42, 13, 11, 31, 49, 80, 61, 37, 12, 28, 9, 20, 81, 29, 7, 74, 36, 78, 63, 17, 48, 45, 66, 38, 52, 4, 69, 79, 98, 87, 54, 35, 41, 39, 62, 56, 96, 90, 26, 84, 40, 92, 82, 95, 53, 21, 50, 14, 44, 10, 65, 18, 99, 89, 33, 85, 93, 83, 51, 60, 91, 68, 77, 24, 71, 6, 43, 2, 3, 70, 67, 46, 23, 97, 55, 30, 34, 1, 8, 47, 5, 72, 86, 16, 22, 64, 58, 100, 73, 75]
+Xv: 15.172419012879528
+glc: 6.924496065529949
+gln: 4.544263192036543e10
+lac: 65.70362208675724
+amm: 9.186624908935267
+mAb: 19.81115811998037
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 912.4258735029983 < 904.3945815724871)?false
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 917.4218133721039 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 92 - [32, 35, 87, 96, 99, 31, 49, 7, 42, 69, 20, 43, 18, 84, 83, 67, 45, 44, 14, 19, 15, 93, 57, 94, 63, 74, 30, 12, 48, 72, 10, 68, 37, 11, 9, 3, 62, 60, 59, 52, 1, 70, 98, 58, 56, 13, 100, 36, 4, 24, 40, 25, 17, 86, 61, 54, 29, 65, 2, 23, 33, 78, 66, 46, 71, 81, 47, 79, 55, 82, 97, 16, 76, 91, 39, 51, 41, 38, 77, 28, 8, 26, 22, 95, 50, 5, 73, 34, 88, 6, 85, 89]
+Xv: 15.207065757333613
+glc: 6.37618397087423
+gln: 4.035537137293282e10
+lac: 60.94286137804421
+amm: 8.567332115144847
+mAb: 19.617140617183562
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 825.0468300789707 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 895.1066533929151 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 93 - [29, 53, 59, 42, 78, 95, 91, 84, 61, 99, 96, 39, 22, 56, 14, 12, 38, 88, 19, 98, 15, 43, 45, 41, 55, 36, 50, 79, 100, 90, 86, 62, 17, 54, 7, 8, 26, 21, 68, 64, 92, 73, 52, 58, 67, 85, 10, 6, 94, 87, 18, 24, 48, 4, 57, 1, 46, 31, 82, 16, 28, 23, 34, 97, 65, 11, 5, 27, 49, 81, 60, 93, 71, 33, 30, 51, 20, 9, 47, 2, 76, 44, 63, 37, 69, 66, 80, 83, 89, 72, 74, 75, 40]
+Xv: 15.306205865345628
+glc: 6.773873973409922
+gln: 4.578704702815866e10
+lac: 63.86744520233613
+amm: 9.124348203304839
+mAb: 19.682008682067202
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 864.7943969613609 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 912.4062220238874 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 94 - [78, 4, 97, 7, 29, 26, 74, 30, 66, 10, 31, 67, 91, 33, 89, 63, 20, 99, 53, 73, 52, 57, 55, 38, 95, 16, 79, 27, 24, 17, 80, 62, 69, 21, 59, 34, 61, 85, 47, 11, 54, 96, 9, 3, 46, 6, 92, 51, 81, 5, 22, 40, 14, 18, 77, 71, 23, 12, 86, 87, 37, 1, 15, 65, 68, 72, 36, 39, 60, 83, 41, 48, 28, 44, 8, 64, 100, 75, 93, 49, 35, 76, 43, 45, 90, 19, 70, 32, 50, 98, 56, 58, 84, 42]
+Xv: 15.298965375891296
+glc: 6.420445514587422
+gln: 4.697390505323957e10
+lac: 63.51390986098252
+amm: 9.794518528730316
+mAb: 18.843672624462922
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 865.4665273100584 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 904.9912752749595 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 95 - [78, 86, 42, 68, 81, 60, 5, 14, 57, 93, 84, 16, 79, 34, 17, 85, 15, 48, 41, 3, 77, 75, 47, 94, 25, 63, 32, 100, 87, 22, 51, 97, 7, 74, 55, 70, 83, 95, 23, 18, 38, 65, 4, 46, 45, 21, 13, 99, 30, 28, 20, 12, 80, 90, 88, 24, 49, 52, 43, 58, 40, 9, 53, 62, 31, 39, 66, 59, 64, 33, 10, 61, 27, 56, 89, 6, 91, 54, 44, 98, 36, 92, 35, 19, 73, 29, 1, 8, 11, 69, 26, 67, 2, 72, 37]
+Xv: 15.27709975605431
+glc: 6.495696263893508
+gln: 4.208156507538402e10
+lac: 63.85487687223236
+amm: 8.7077014985527
+mAb: 18.385435686002587
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 840.7963808012963 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 919.738737030396 < 904.3945815724871)?false
+-----RMSPE HNKE-U------ensemble size 96 - [32, 85, 8, 47, 45, 92, 98, 23, 96, 33, 22, 37, 62, 53, 7, 31, 64, 36, 40, 29, 57, 94, 17, 72, 28, 77, 100, 13, 5, 51, 58, 78, 15, 54, 90, 59, 60, 97, 30, 12, 88, 41, 71, 73, 99, 67, 68, 50, 24, 14, 91, 52, 46, 87, 44, 83, 18, 56, 34, 1, 81, 70, 2, 39, 27, 86, 69, 19, 3, 48, 75, 10, 65, 4, 93, 25, 63, 61, 21, 9, 82, 38, 89, 43, 20, 26, 35, 84, 55, 11, 95, 49, 74, 76, 42, 80]
+Xv: 15.286291988832795
+glc: 6.813704428981282
+gln: 5.232592783645691e10
+lac: 64.02725740538278
+amm: 8.90232731915724
+mAb: 19.20417679691909
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 857.9326615231138 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 873.254512405342 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 97 - [71, 34, 14, 75, 79, 93, 83, 7, 3, 98, 67, 38, 44, 9, 21, 23, 54, 1, 72, 42, 43, 100, 36, 17, 88, 65, 22, 68, 45, 96, 18, 24, 56, 2, 28, 40, 31, 30, 84, 41, 8, 92, 80, 25, 91, 50, 82, 90, 26, 10, 99, 32, 4, 66, 62, 81, 33, 64, 97, 94, 37, 58, 48, 51, 78, 57, 89, 13, 35, 16, 95, 47, 29, 12, 76, 86, 73, 49, 46, 53, 61, 6, 59, 19, 77, 70, 39, 11, 27, 60, 87, 55, 15, 52, 5, 85, 20]
+Xv: 15.245982838859314
+glc: 6.4987853330522025
+gln: 4.3611310169944145e10
+lac: 63.74501426528
+amm: 9.023370292697635
+mAb: 19.35112974510868
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 838.5905234035779 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 897.1403212778564 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 98 - [28, 27, 18, 45, 93, 55, 63, 44, 8, 80, 48, 61, 38, 71, 43, 97, 66, 12, 68, 35, 16, 19, 99, 67, 22, 100, 9, 83, 21, 20, 23, 6, 17, 79, 30, 58, 73, 87, 85, 60, 11, 90, 74, 56, 59, 78, 57, 94, 77, 36, 14, 52, 37, 92, 53, 31, 46, 91, 81, 49, 47, 13, 3, 96, 70, 75, 15, 84, 26, 76, 86, 62, 5, 39, 40, 41, 42, 51, 82, 89, 4, 10, 34, 32, 25, 65, 29, 69, 88, 50, 1, 54, 33, 72, 98, 95, 7, 24]
+Xv: 15.254691210682909
+glc: 6.400046699311707
+gln: 4.5505716756902794e10
+lac: 63.347535172692396
+amm: 9.03411778142736
+mAb: 19.128789671948088
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 854.146698208001 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 896.2437965839553 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 99 - [80, 1, 75, 12, 19, 28, 40, 32, 52, 67, 97, 92, 23, 47, 51, 95, 18, 20, 70, 73, 36, 88, 49, 96, 8, 76, 85, 59, 14, 98, 7, 29, 35, 64, 86, 41, 90, 17, 48, 43, 78, 68, 99, 58, 91, 6, 13, 37, 39, 79, 50, 71, 61, 4, 25, 60, 38, 66, 74, 5, 89, 22, 55, 93, 62, 2, 57, 53, 63, 10, 21, 26, 65, 87, 30, 3, 84, 45, 16, 31, 72, 46, 9, 56, 81, 27, 24, 33, 82, 83, 54, 44, 77, 69, 100, 42, 15, 94, 11]
+Xv: 15.252059600279427
+glc: 6.4466977378243095
+gln: 4.429443038898355e10
+lac: 63.79211812265265
+amm: 8.709735209753765
+mAb: 19.280067539171746
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 849.8873710344606 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 897.5494083557968 < 904.3945815724871)?true
+-----RMSPE HNKE-U------ensemble size 100 - [2, 23, 50, 21, 33, 68, 77, 66, 3, 95, 99, 82, 20, 87, 42, 61, 32, 16, 79, 90, 26, 100, 11, 55, 75, 96, 4, 57, 46, 69, 71, 18, 28, 43, 60, 86, 34, 48, 65, 38, 1, 5, 59, 40, 10, 49, 70, 44, 9, 54, 35, 7, 83, 15, 56, 89, 6, 36, 80, 14, 92, 88, 62, 72, 94, 12, 27, 97, 98, 25, 47, 81, 41, 8, 58, 13, 93, 24, 73, 53, 51, 76, 78, 64, 17, 74, 45, 85, 37, 30, 29, 91, 39, 22, 19, 67, 52, 63, 31, 84]
+Xv: 15.23254883856095
+glc: 6.486535318063087
+gln: 4.495737983879296e10
+lac: 63.47597859605537
+amm: 8.844988427605111
+mAb: 19.171285612532206
+
+====== Normalised innovations squared Chi2 test ===NIS_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 849.9372149698846 < 904.3945815724871)?true
+
+====== Normalised innovations squared Chi2 test ===NIS_ENN_MM_UKF===SPN_testingset3
+Is N*mean(NIS) inside of 95% CI (745.3933676480418 < 897.7567860120591 < 904.3945815724871)?true
